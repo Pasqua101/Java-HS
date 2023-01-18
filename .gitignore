@@ -1,0 +1,4 @@
+#Ignore unnessecary folders
+.idea/
+
+*.iml
